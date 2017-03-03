@@ -1,0 +1,17 @@
+
+
+//if uisng online database
+//  {
+ // "development": {
+ //   "use_env_variable": "DATABASE_URL"
+//  },
+
+//make sure to 'Set DATABASE_URL=our-database-url'
+
+//use this tool to set it everytime you start prod https://www.npmjs.com/package/dotenv
+
+note to self
+to load data with sequelize
+1. first do users, riders, horses, competitions
+2. Teams, eventPair
+3. EventTeams
